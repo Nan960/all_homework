@@ -1,9 +1,0 @@
-com/wjy/ioc/DefaultBeanNameGenerator.class
-com/wjy/ioc/annotation/Bean.class
-com/wjy/ioc/annotation/ScanPackage.class
-com/wjy/util/ReflectionUtils.class
-com/wjy/transaction/Transaction.class
-com/wjy/ioc/FactoryBean.class
-com/wjy/ioc/BaseBeanDefinitionImpl.class
-com/wjy/util/ReflectionUtils$ReflectionUtilsException.class
-com/wjy/transaction/TransactionManager.class
